@@ -1,0 +1,21 @@
+package campusLife;
+
+public class OneDay {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		System.out.println("7:00 am: I wake up, eat breakfast, and went for a shower.");
+		System.out.println("8:00 am: I draw and/or play video games.");
+		System.out.println("10:00 am: I prepare for classes of the day.");
+		System.out.println("2:30 pm: Class finishes, I eat lunch.");
+		System.out.println("3:30 pm: I do my assignments for the day.");
+		System.out.println("4:30 pm: I practice programming lessons that was learned today.");
+		System.out.println("6:00 pm: I eat dinner.");
+		System.out.println("8:00 pm: I watch television in the living room with my parents.");
+		System.out.println("9:30 pm: I play video games in my room.");
+		System.out.println("11:00 pm: I go to sleep.");
+
+	}
+
+}
